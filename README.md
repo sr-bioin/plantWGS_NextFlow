@@ -18,8 +18,8 @@ is a fast haplotype-resolved de novo assembler initially designed for PacBio HiF
 
   
   &emsp; **-QUAST** (QUality ASsessment Tool) is a widely used software for evaluating and comparing genome  <br>
-  &emsp; &ensp;assemblies in bioinformatics, providing metrics on assembly quality, such as contiguity and completeness. The tool can be used with or without a reference genome <br>
-  &emsp; &ensp;and generates detailed reports, tables, and plots for analysis https://github.com/ablab/quast.
+  &emsp; &ensp;assemblies in bioinformatics, providing metrics on assembly quality, such as contiguity and completeness.  <br>
+  &emsp; &ensp;The tool can be used with or without a reference genome and generates detailed reports, tables, and plots for analysis https://github.com/ablab/quast.
 
 **Maker2** 
 is a genome annotation and data management tool designed for second-generation genome projects. It is a multi-threaded, parallelized application that can process second-generation datasets of virtually any size. It can produce accurate annotations for novel genomes where training-data are limited, of low quality or even non-existent. . For more information, please visit the website https://github.com/Yandell-Lab/maker.
