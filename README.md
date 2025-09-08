@@ -7,7 +7,7 @@
 **MultiQC** is used create a single report with interactive plots for multiple bioinformatics analyses across many samples. It reports can describe multiple analysis steps and large numbers of samples within a single plot, and multiple analysis tools making it ideal for routine fast quality control. For more information, please visit the MultiQC website https://github.com/MultiQC/MultiQC.
 
 **NanoQC** is a plotting tool for long read sequencing data and alignments. For more information, please check its website: https://biocontainers.pro/tools/nanoplot and https://github.com/wdecoster/NanoPlot.
-<img width="983" height="982" alt="LengthvsQualityScatterPlot_legacy_kde" src="https://github.com/user-attachments/assets/1bcb8557-c3c7-451b-a7db-7ea96fab3aa5" />
+<img width="400" height="400" alt="LengthvsQualityScatterPlot_legacy_kde" src="https://github.com/user-attachments/assets/1bcb8557-c3c7-451b-a7db-7ea96fab3aa5" />
 
 **Hifiasm** 
 is a fast haplotype-resolved de novo assembler initially designed for PacBio HiFi reads. It produces arguably the best single-sample telomere-to-telomere assemblies combing HiFi, ultralong and Hi-C reads, and it is one of the best haplotype-resolved assemblers for the trio-binning assembly given parental short reads. For more information, please visit https://github.com/chhylp123/hifiasm.
