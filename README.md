@@ -6,7 +6,7 @@
 
 **MultiQC** is used create a single report with interactive plots for multiple bioinformatics analyses across many samples. It reports can describe multiple analysis steps and large numbers of samples within a single plot, and multiple analysis tools making it ideal for routine fast quality control. For more information, please visit the MultiQC website https://github.com/MultiQC/MultiQC.
 
-**NanoQC** is a plotting tool for long read sequencing data and alignments. For more information, please check its website: https://biocontainers.pro/tools/nanoplot and https://github.com/wdecoster/NanoPlot.
+**NanoQC** is a plotting tool for long read sequencing data and alignments. For more information, please check its website: https://biocontainers.pro/tools/nanoplot and https://github.com/wdecoster/NanoPlot. <br>
 <img width="400" height="400" alt="LengthvsQualityScatterPlot_legacy_kde" src="https://github.com/user-attachments/assets/1bcb8557-c3c7-451b-a7db-7ea96fab3aa5" />
 
 **Hifiasm** 
