@@ -15,15 +15,15 @@ is a fast haplotype-resolved de novo assembler initially designed for PacBio HiF
   &emsp; **-Merqury** is a tool for validating genomes assembled using long read sequencing. The algorithm uses k-mer to evaluate base accuracy <br> &emsp; &ensp;and completeness of a genome by comparing the de novo assembled genome with high accuracy reads that are not used in the assembly. <br>
   &emsp; &ensp;The program does not require another reference assembly for its evaluation. It is able to evaluate the haplotype-specific accuracy, <br>
   &emsp; &ensp;completeness, phase block continuity and switch errors in trio binned assemblies. https://github.com/marbl/merqury <br>
+  ![DELLlat1](https://github.com/user-attachments/assets/234120a5-6654-428a-b638-a9a43b229940)
+
+  
   &emsp; **-QUAST** (QUality ASsessment Tool) is a widely used software for evaluating and comparing genome assemblies in bioinformatics, <br>
   &emsp; &ensp;providing metrics on assembly quality, such as contiguity and completeness. The tool can be used with or without a reference genome <br>
   &emsp; &ensp;and generates detailed reports, tables, and plots for analysis https://github.com/ablab/quast.
 
 **Maker2** 
 is a genome annotation and data management tool designed for second-generation genome projects. It is a multi-threaded, parallelized application that can process second-generation datasets of virtually any size. It can produce accurate annotations for novel genomes where training-data are limited, of low quality or even non-existent. . For more information, please visit the website https://github.com/Yandell-Lab/maker.
-
-**QUAST** 
-is a quality assessment tool for evaluating and comparing genome assemblies by computing various metrics and works both with and without reference genomes. It produces many reports, summary tables and plots to help scientists in their research and in their publications. For more information, please visit the Quast website https://github.com/ablab/quast.
 
 **BUSCO**
  (Benchmarking Universal Single-Copy Orthologs) provides measures for quantitative assessment of genome assembly, gene set, and transcriptome completeness based on evolutionarily informed expectations of gene content from near-universal single-copy orthologs, please visit https://busco.ezlab.org/.
