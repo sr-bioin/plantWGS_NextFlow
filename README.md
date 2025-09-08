@@ -2,9 +2,9 @@
 
 <h3>Software used in the pipeline.</h3>
 
-**FastQC** is widely used and is robust, efficient, and versatile quality control software for a varied range of raw genetic data. It outputs a quality report which can be viewed to give an indication on how good the respective reads are. For more information, please visit the FastQC website.
+**FastQC** is widely used and is robust, efficient, and versatile quality control software for a varied range of raw genetic data. It outputs a quality report which can be viewed to give an indication on how good the respective reads are. For more information, please visit the FastQC website https://www.bioinformatics.babraham.ac.uk/projects/fastqc/.
 
-**MultiQC** is used create a single report with interactive plots for multiple bioinformatics analyses across many samples. It reports can describe multiple analysis steps and large numbers of samples within a single plot, and multiple analysis tools making it ideal for routine fast quality control. For more information, please visit the MultiQC website.
+**MultiQC** is used create a single report with interactive plots for multiple bioinformatics analyses across many samples. It reports can describe multiple analysis steps and large numbers of samples within a single plot, and multiple analysis tools making it ideal for routine fast quality control. For more information, please visit the MultiQC website https://github.com/MultiQC/MultiQC.
 
 **NanoQC** is a plotting tool for long read sequencing data and alignments. For more information, please check its website: https://biocontainers.pro/tools/nanoplot and https://github.com/wdecoster/NanoPlot.
 
