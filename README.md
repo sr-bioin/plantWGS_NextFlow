@@ -15,7 +15,7 @@ is a fast haplotype-resolved de novo assembler initially designed for PacBio HiF
   &emsp; **-Merqury** is a tool for validating genomes assembled using long read sequencing. The algorithm uses k-mer to evaluate base accuracy <br> &emsp; &ensp;and completeness of a genome by comparing the de novo assembled genome with high accuracy reads that are not used in the assembly. <br>
   &emsp; &ensp;The program does not require another reference assembly for its evaluation. It is able to evaluate the haplotype-specific accuracy, <br>
   &emsp; &ensp;completeness, phase block continuity and switch errors in trio binned assemblies. https://github.com/marbl/merqury <br>
-  <img width="400" height="400" alt="LengthvsQualityScatterPlot_legacy_kde" src=://github.com/user-attachments/assets/234120a5-6654-428a-b638-a9a43b229940/>
+  <img width="400" height="400" alt="LengthvsQualityScatterPlot_legacy_kde" src=:"//github.com/user-attachments/assets/234120a5-6654-428a-b638-a9a43b229940" />
 
   
   &emsp; **-QUAST** (QUality ASsessment Tool) is a widely used software for evaluating and comparing genome assemblies in bioinformatics, <br>
