@@ -11,9 +11,9 @@
 
 **Hifiasm** 
 is a fast haplotype-resolved de novo assembler initially designed for PacBio HiFi reads. It produces arguably the best single-sample telomere-to-telomere assemblies combing HiFi, ultralong and Hi-C reads, and it is one of the best haplotype-resolved assemblers for the trio-binning assembly given parental short reads. For more information, please visit https://github.com/chhylp123/hifiasm. <br>
-  Completeness: <br>
-  Merqury <br>
-  Quast
+  &ensp; Completeness: <br>
+  &emsp; Merqury <br>
+  &emsp; Quast
 
 **Maker2** 
 is a genome annotation and data management tool designed for second-generation genome projects. It is a multi-threaded, parallelized application that can process second-generation datasets of virtually any size. It can produce accurate annotations for novel genomes where training-data are limited, of low quality or even non-existent. . For more information, please visit the website https://github.com/Yandell-Lab/maker.
