@@ -17,8 +17,8 @@ is a fast haplotype-resolved de novo assembler initially designed for PacBio HiF
   <img width="400" height="400" alt="LengthvsQualityScatterPlot_legacy_kde" src="https://github.com/user-attachments/assets/234120a5-6654-428a-b638-a9a43b229940" />
 
   
-  &emsp; **-QUAST** (QUality ASsessment Tool) is a widely used software for evaluating and comparing genome assemblies in bioinformatics, <br>
-  &emsp; &ensp;providing metrics on assembly quality, such as contiguity and completeness. The tool can be used with or without a reference genome <br>
+  &emsp; **-QUAST** (QUality ASsessment Tool) is a widely used software for evaluating and comparing genome  <br>
+  &emsp; &ensp;assemblies in bioinformatics, providing metrics on assembly quality, such as contiguity and completeness. The tool can be used with or without a reference genome <br>
   &emsp; &ensp;and generates detailed reports, tables, and plots for analysis https://github.com/ablab/quast.
 
 **Maker2** 
