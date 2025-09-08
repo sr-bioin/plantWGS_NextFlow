@@ -6,7 +6,7 @@
 
 **MultiQC** is used create a single report with interactive plots for multiple bioinformatics analyses across many samples. It reports can describe multiple analysis steps and large numbers of samples within a single plot, and multiple analysis tools making it ideal for routine fast quality control. For more information, please visit the MultiQC website.
 
-**NanoQC** is a commonly used tool to remove adapter sequences, low-quality bases, and low-quality reads from sequencing reads. For more information and usage instructions please visit the Trimmomatic website.
+**NanoQC** is a plotting tool for long read sequencing data and alignments. For more information, please check its website: https://biocontainers.pro/tools/nanoplot and https://github.com/wdecoster/NanoPlot.
 
 **Hiasm** <br>
 It was used to perform de novo genome assembly after quality control and trimming the adapters from the raw reads. SPAdes is a de Bruijn graph based assembler, designed and intended for small genomes and can take sequencing data from Illumina and IonTorrent platforms. For more information, please visit the Spades website.
