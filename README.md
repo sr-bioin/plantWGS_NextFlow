@@ -12,12 +12,12 @@
 **Hifiasm** 
 is a fast haplotype-resolved de novo assembler initially designed for PacBio HiFi reads. It produces arguably the best single-sample telomere-to-telomere assemblies combing HiFi, ultralong and Hi-C reads, and it is one of the best haplotype-resolved assemblers for the trio-binning assembly given parental short reads. For more information, please visit https://github.com/chhylp123/hifiasm. <br> 
   &ensp; **Completeness:** <br>
-  &emsp; &emsp; **Merqury** is a tool for validating genomes assembled using long read sequencing. The algorithm uses k-mer to evaluate base accuracy <br> &emsp; &emsp; and completeness of a genome by comparing the de novo assembled genome with high accuracy reads that are not used in the assembly. <br>
-  &emsp; &emsp; The program does not require another reference assembly for its evaluation. It is able to evaluate the haplotype-specific accuracy, <br>
-  &emsp; &emsp; completeness, phase block continuity and switch errors in trio binned assemblies. https://github.com/marbl/merqury <br>
+  &emsp; &emsp; **Merqury** is a tool for validating genomes assembled using long read sequencing. The algorithm uses k-mer to evaluate base accuracy <br> &emsp; &ensp; and completeness of a genome by comparing the de novo assembled genome with high accuracy reads that are not used in the assembly. <br>
+  &emsp; &ensp;The program does not require another reference assembly for its evaluation. It is able to evaluate the haplotype-specific accuracy, <br>
+  &emsp; &ensp; completeness, phase block continuity and switch errors in trio binned assemblies. https://github.com/marbl/merqury <br>
   &emsp; &emsp; **QUAST** (QUality ASsessment Tool) is a widely used software for evaluating and comparing genome assemblies in bioinformatics, <br>
-  &emsp; &emsp; providing metrics on assembly quality, such as contiguity and completeness. The tool can be used with or without a reference genome <br>
-  &emsp; &emsp; and generates detailed reports, tables, and plots for analysis.
+  &emsp; &ensp;providing metrics on assembly quality, such as contiguity and completeness. The tool can be used with or without a reference genome <br>
+  &emsp; &ensp;and generates detailed reports, tables, and plots for analysis.
 
 **Maker2** 
 is a genome annotation and data management tool designed for second-generation genome projects. It is a multi-threaded, parallelized application that can process second-generation datasets of virtually any size. It can produce accurate annotations for novel genomes where training-data are limited, of low quality or even non-existent. . For more information, please visit the website https://github.com/Yandell-Lab/maker.
