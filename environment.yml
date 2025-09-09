@@ -1,0 +1,11 @@
+name: isoseq_pipeline
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - isoseq3
+  - pbmm2
+  - ccs
+  - bedtools
+  - samtools
