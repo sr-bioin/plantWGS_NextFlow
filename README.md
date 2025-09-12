@@ -1,4 +1,4 @@
-<h2>Nextflow pipeline for whole genome sequence analysis of Plant genome using PacBio </h2>
+<h2>Nextflow pipeline for whole genome sequence analysis of Plant genome using PacBio sequence </h2>
 
 <h3>Software used in the pipeline.</h3>
 
